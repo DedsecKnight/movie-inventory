@@ -1,0 +1,10 @@
+rent "Passengers"
+add "Passengers",2
+return "Doctor Strange"
+remove "The Crow",1
+add "Arrival",4
+return "Passengers"
+remove "Captain America: Civil War",2
+remove "Twilight",3
+return "Avengers"
+rent "Doctor"

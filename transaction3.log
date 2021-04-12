@@ -1,0 +1,4 @@
+remove "B",1
+remove "A",1
+remove "D",1
+add "A"P,1
